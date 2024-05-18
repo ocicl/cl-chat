@@ -4,6 +4,6 @@ A Common Lisp LLM chat library
 
 |---------+--------------------------------------------|
 | source  | git:https://github.com/atgreen/cl-chat.git |
-| commit  | e4d8276                                    |
+| commit  | af79131                                    |
 | systems | chat web-chat                              |
 |---------+--------------------------------------------|
